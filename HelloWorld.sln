@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{95016ECC-E6D3-40E3-9DAC-2733DB35C002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeController", "HelloWorld.Tests\HomeController.csproj", "{07CD9776-C0BD-4405-83B5-4543E156481F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95016ECC-E6D3-40E3-9DAC-2733DB35C002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95016ECC-E6D3-40E3-9DAC-2733DB35C002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95016ECC-E6D3-40E3-9DAC-2733DB35C002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95016ECC-E6D3-40E3-9DAC-2733DB35C002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07CD9776-C0BD-4405-83B5-4543E156481F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CD9776-C0BD-4405-83B5-4543E156481F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CD9776-C0BD-4405-83B5-4543E156481F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CD9776-C0BD-4405-83B5-4543E156481F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49F868BF-9044-4B31-AD2A-CD2C668B2722}
+	EndGlobalSection
+EndGlobal
